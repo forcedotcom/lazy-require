@@ -1,0 +1,9 @@
+{
+  "nyc": {
+    "extends": "@salesforce/dev-config/nyc",
+    "lines": 73,
+    "statements": 73,
+    "functions": 88,
+    "branches": 50
+  }
+}
