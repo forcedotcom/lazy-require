@@ -2,7 +2,7 @@
   "name": "@salesforce/lazy-require",
   "version": "0.4.21",
   "description": "Lazily load npm packages",
-  "repository": "https://github.com/forcedotcom/sfdx-dev-packages",
+  "repository": "forcedotcom/lazy-require",
   "main": "lib/index.js",
   "author": "Salesforce",
   "license": "BSD-3-Clause",
